@@ -1,0 +1,45 @@
+Input : Thông tin sản phẩm muốn thêm
+P: Nhập thông tin sản phẩm -> Kiểm tra thông tin đã tồn tại chưa ? -> Thêm sp vào DB -> Lưu thông tin thêm -> Hiển thị sản phẩm mới thêm vào
+Output : Thêm và hiển thị sản phẩm mới thêm vào
+
+Input : Thông tin sản phẩm muốn sửa
+P: Check số lần đã sửa trong ngày -> Nhập thông tin sp muốn sửa --> check sản phẩm tồn taị ? --> Check sản phẩm mới đã insert được > 2h ? -->  Xử lý lưu lại trong DB --> Lưu thông tin sửa --> Hiển thị lại thông tin
+Output: Thông tin sản phẩm đã được thay đổi
+
+Input : Thông tin sản phảm muốn xóa
+P: Check số lần đã xóa  trong ngày -> Nhập thông tin các sp muốn xóa --> check số lượng --> check sản phẩm tồn taị ? -->Check sản phẩm mới đã insert được > 2h ? --> Xử lý lưu lại trong DB -->Lưu thông tin xóa --> Hiển thị thông báo
+O : Sản phẩm đã xóa
+
+I: Giá mới của một sản phẩm
+P: Nhập thông tin sp muốn thay đổi giá --> Check tồn tại --> Check số lần thay đổi giá trong ngày --> Nhập giá mới --> check giá thỏa mãn đk ? --> Cập nhật gía --> Lưu thông tin giá -->hiển thị kết quả
+O : Giá đã được thay đổi
+
+I: Sản phẩm muốn mua
+P: Chọn sản phảm muốn mua --> Check số lượng sản phẩm trong kho --> Thêm vào giỏi hàng
+O : Sản phẩm có trong giỏ hàng
+
+I : Đặc tính sản phẩm (search)
+P: Nhập thông tin muốn tìm kiếm --> Tìm trong DB những sản phẩm liên quan --> Hiển thị ra màn hình
+O : Thông tin các sản phẩm liên quan
+
+I : Sản phẩm không muốn mua nữa
+P: Chọn sản phẩm k muốn mua --> xóa bỏ khỏi giỏ hàng --> Cập nhật lại giỏ hangf --> Hiển thị thông tin giỏ hàng
+O : Giỏ hàng không còn sản phẩm đó
+
+I : Giỏ hàng muốn thanh toán
+P : chọn thanh toán --> chưa thông tin giao hàng ? -->  Nhập thông tin giao hàng --> Lưu thông tin giao hàng --> Xác nhận giao hàng --> Tính phi ship --> Lưu thông tin đơn tạm thời --> Thanh toán đơn hàng --> check tiền ? --> Xác nhận thanh toán -->  Trừ tiền trogn thẻ --> lưu lại thông tin đơn --> hiển thị kết quả
+O : Thanh toán thành công
+
+I: Thông tin đơn muốn hủy
+P: Chọn đơn hàng muốn hủy --> Xác nhận hủy --> Hòan trả lại tiền --> cập nhật số lượng sp --> Xóa thông tin thành toán của đơn hủy --> Hiển thị lại kết quả
+O : Đơn được hủy thành công
+
+I : Xem nội dung media
+P: Chọn media --> Check media đã thanh toán thành công --> Hiển thị media tương ứng
+O : Hiển thị thông tin media
+
+I: Username, password
+P: Nhập username, password --> username ? --> password đúng ? --> Check admin ? --> Hiện thị giao diện + chức năng tương ứng
+O: Đăng nhập thành công
+
+Việc nhập thông tin có thể thay thế bằng chọn sản phẩm
