@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T08:13:25.439Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="fLFyv92XY15T4dPC-6Ql" version="12.9.10" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-10-04T08:19:17.976Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="QOKd-M0TGv5rWLWEWwcl" version="12.9.10" type="github" pages="11">
   <diagram id="P2-Mg_CkBTSxw6RYj7ge" name="Login">
-    <mxGraphModel dx="3530" dy="2812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3530" dy="2672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,14 +138,11 @@
         <mxCell id="tmoUdF3aTovA2c40iYar-2" value="" style="shape=rhombus;html=1;verticalLabelPosition=top;verticalAlignment=bottom;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="960" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tmoUdF3aTovA2c40iYar-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1043" width="40" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="k8XDYn30NCzdJcheloBk" name="Admin-Add-New-Product">
-    <mxGraphModel dx="1351" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="zHs-a88d3GPJ17fAGSpT-0" />
         <mxCell id="zHs-a88d3GPJ17fAGSpT-1" parent="zHs-a88d3GPJ17fAGSpT-0" />
@@ -275,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lNAilAFBC876tT9Df9E-" name="Edit-Product">
-    <mxGraphModel dx="1577" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="9_HHhEcuFP4VOnC7p468-0" />
         <mxCell id="9_HHhEcuFP4VOnC7p468-1" parent="9_HHhEcuFP4VOnC7p468-0" />
@@ -459,7 +456,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jY-NodR_yRw77Y8jswE3" name="Delete-Product">
-    <mxGraphModel dx="1113" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="IckBUdiaLZKEjxlFPhhD-0" />
         <mxCell id="IckBUdiaLZKEjxlFPhhD-1" parent="IckBUdiaLZKEjxlFPhhD-0" />
@@ -635,7 +632,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kj1zFgcH2MnbQVhLL6zx" name="Edit-Price">
-    <mxGraphModel dx="946" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="yVl_zPnCE7ZfCRvyxnzE-0" />
         <mxCell id="yVl_zPnCE7ZfCRvyxnzE-1" parent="yVl_zPnCE7ZfCRvyxnzE-0" />
@@ -824,7 +821,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_Wq6D709LyeruJ3Xjmau" name="Buyer-Buy-Product">
-    <mxGraphModel dx="1351" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="PCMA6-iWNsx4mEBH3OZs-0" />
         <mxCell id="PCMA6-iWNsx4mEBH3OZs-1" parent="PCMA6-iWNsx4mEBH3OZs-0" />
@@ -956,7 +953,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1iMrZvidaHF2-JgEcPHd" name="Search-Product">
-    <mxGraphModel dx="946" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="guq_o4vW0VwaSOrTRJB4-0" />
         <mxCell id="guq_o4vW0VwaSOrTRJB4-1" parent="guq_o4vW0VwaSOrTRJB4-0" />
@@ -1042,7 +1039,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pheTXnYzo5vwMMLFaQM4" name="Remove-Product-Cart">
-    <mxGraphModel dx="946" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="FJXqFInQ5YgQXu8MXpkx-0" />
         <mxCell id="FJXqFInQ5YgQXu8MXpkx-1" parent="FJXqFInQ5YgQXu8MXpkx-0" />
@@ -1153,7 +1150,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y6Tfm3juyTMjgBtaHm-1" name=" Payment">
-    <mxGraphModel dx="1113" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="YiehGa9-LwkshTnIvYxl-0" />
         <mxCell id="YiehGa9-LwkshTnIvYxl-1" parent="YiehGa9-LwkshTnIvYxl-0" />
@@ -1459,7 +1456,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hF3XkQwlZSzLgBc60hVy" name="Delete-Payment">
-    <mxGraphModel dx="946" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="n8gZYx4STEoGfslWMU72-0" />
         <mxCell id="n8gZYx4STEoGfslWMU72-1" parent="n8gZYx4STEoGfslWMU72-0" />
@@ -1616,7 +1613,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BhdvpD9EX2GSILo-v-1W" name="View-Media">
-    <mxGraphModel dx="946" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="YJ0PyMhYkwxOtCHctrww-0" />
         <mxCell id="YJ0PyMhYkwxOtCHctrww-1" parent="YJ0PyMhYkwxOtCHctrww-0" />
